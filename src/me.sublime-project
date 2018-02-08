@@ -1,0 +1,7 @@
+{
+	 "settings": {
+        "xdebug": {
+             "url": "http://my.local.website/",
+        }
+    }
+}
